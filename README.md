@@ -10,7 +10,7 @@
 * [Azure
   Pipelines](https://dev.azure.com/schnetter/mpi-hs-binary/_build):
   Build Status [![Build
-  Status](https://dev.azure.com/schnetter/mpi-hs-binary/_apis/build/status/eschnett.mpi-hs-binary?branchName=master)](https://dev.azure.com/schnetter/mpi-hs-binary/_build/latest?definitionId=1&branchName=master)
+  Status](https://dev.azure.com/schnetter/mpi-hs-binary/_apis/build/status/eschnett.mpi-hs-binary?branchName=master)](https://dev.azure.com/schnetter/mpi-hs-binary/_build/latest?definitionId=8&branchName=master)
 
 
 
