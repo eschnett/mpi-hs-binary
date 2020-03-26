@@ -3,14 +3,7 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages:
-- completed:
-    hackage: mpi-hs-0.6.0.0@sha256:fa9271ea7121942ffa7869648c8c6fe6f08159a845fe05af6d667b4da251d489,8833
-    pantry-tree:
-      size: 796
-      sha256: f6f147089dd4eaa382df6f089a2f552cc939233215391ece6334d6f487bb0e08
-  original:
-    hackage: mpi-hs-0.6.0.0@sha256:fa9271ea7121942ffa7869648c8c6fe6f08159a845fe05af6d667b4da251d489,8833
+packages: []
 snapshots:
 - completed:
     size: 491372
