@@ -5,3 +5,6 @@ resolver: lts-15.5
 # User packages to be built.
 packages:
   - .
+
+extra-deps:
+  - mpi-hs-0.6.0.0@sha256:fa9271ea7121942ffa7869648c8c6fe6f08159a845fe05af6d667b4da251d489,8833
