@@ -7,4 +7,5 @@ packages:
   - .
 
 extra-deps:
-  - mpi-hs-0.6.0.0@sha256:fa9271ea7121942ffa7869648c8c6fe6f08159a845fe05af6d667b4da251d489,8833
+  - git: https://github.com/eschnett/mpi-hs
+    commit: 9c77e539bd6145474cb7a5ee84ce80af5d34321b
