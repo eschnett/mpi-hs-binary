@@ -7,7 +7,7 @@ container:
 steps:
 - script: |
     set -euxo pipefail
-    git clone https://github.com/eschnett/mpi-hs.git
+    git clone https://github.com/eschnett/mpi-hs-binary.git
   displayName: Download package
 - script: |
     set -euxo pipefail
