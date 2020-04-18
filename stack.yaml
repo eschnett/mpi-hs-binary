@@ -1,11 +1,7 @@
 # Resolver to choose a 'specific' stackage snapshot or a compiler version.
-resolver: lts-15.5
-# resolver: nightly-2020-03-24
+# resolver: lts-15.8
+resolver: nightly-2020-04-18
 
 # User packages to be built.
 packages:
   - .
-
-extra-deps:
-  - git: https://github.com/eschnett/mpi-hs
-    commit: 9c77e539bd6145474cb7a5ee84ce80af5d34321b

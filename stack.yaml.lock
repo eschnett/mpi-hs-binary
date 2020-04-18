@@ -3,24 +3,10 @@
 # For more information, please see the documentation at:
 #   https://docs.haskellstack.org/en/stable/lock_files
 
-packages:
-- completed:
-    cabal-file:
-      size: 10430
-      sha256: c6cb677a1e90cedb02dbaf0524638c65afc96a8a6a2241c805cf55dd85291475
-    name: mpi-hs
-    version: 0.6.0.0
-    git: https://github.com/eschnett/mpi-hs
-    pantry-tree:
-      size: 1209
-      sha256: 2ab5950699c98ca23fb76db68f4637d5d574b684fb008769d0a3cb43343133b7
-    commit: 9c77e539bd6145474cb7a5ee84ce80af5d34321b
-  original:
-    git: https://github.com/eschnett/mpi-hs
-    commit: 9c77e539bd6145474cb7a5ee84ce80af5d34321b
+packages: []
 snapshots:
 - completed:
-    size: 491372
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/15/5.yaml
-    sha256: 1b549cfff328040c382a70a84a2087aac8dab6d778bf92f32a93a771a1980dfc
-  original: lts-15.5
+    size: 513207
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/nightly/2020/4/18.yaml
+    sha256: 4a5cabc1856fdcb16da22374500213ccb850d608eadbe8130ff66de4614a66ff
+  original: nightly-2020-04-18
