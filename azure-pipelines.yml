@@ -20,5 +20,8 @@ steps:
   displayName: Build Package
 - script: |
     set -euxo pipefail
+    mpiexec stack --no-terminal exec version
+    mpiexec -n 3 stack --no-terminal exec example1
+    mpiexec -n 3 stack --no-terminal exec example2
     mpiexec -n 3 stack --no-terminal exec -- $(stack path --dist-dir)/build/mpi-test-binary/mpi-test-binary
-  displayName: Run tests
+  displayName: Run examples and tests
